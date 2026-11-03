@@ -1,0 +1,17 @@
+# Entornos virtuales
+/.venv/
+/.venv-build/
+/venv/
+
+# Salidas generadas (PyInstaller e Inno Setup)
+/build/
+/dist/
+/instalador/
+
+# Copia de seguridad local
+/chimupdf_respaldo/
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
